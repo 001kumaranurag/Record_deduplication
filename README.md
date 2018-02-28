@@ -1,11 +1,4 @@
 # Record_deduplication
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 27 18:02:23 2017
-
-@author: dragon
-"""
 
 # importing the pandas module
 import pandas as pd
