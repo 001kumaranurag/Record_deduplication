@@ -6,10 +6,13 @@ Created on Wed Dec 27 18:02:23 2017
 
 @author: dragon
 """
+
 # importing the pandas module
 import pandas as pd
+
 # Importing the Dataset
 dataframe = pd.read_csv('Deduplication Problem - Sample Dataset.csv')
+
 # Creating the function deduplication_records()
 
 def deduplication_records(df1):
